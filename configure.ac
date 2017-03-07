@@ -1,0 +1,9 @@
+AC_INIT(implant, 0.1)
+AM_INIT_AUTOMAKE
+dnl AM_CONFIG_HEADER(config.h)
+
+AC_PROG_CXX
+
+AC_STDC_HEADERS
+
+AC_OUTPUT(Makefile)

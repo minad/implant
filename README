@@ -1,0 +1,12 @@
+Utility to link packages from a seperate package directory 
+into the main filesystem tree.
+
+Installation of a package:
+cd /usr/pkg
+implant <package>
+
+Deinstallation of a package:
+cd /usr/pkg
+implant -D <package>
+
+
